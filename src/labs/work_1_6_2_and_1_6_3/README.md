@@ -186,7 +186,7 @@ public class User {
 }
 ```
 
-*Solution_1_6_2_Main.java*   
+*Solution_1_6_2_and_1_6_3_Main.java*   
 ```java
 /*----- 1.6.3. ----*/
 
@@ -195,7 +195,7 @@ public class User {
    access rights. Then demonstrates working with the file
    for different users */
 
-public class Solution_1_6_2_Main {
+public class Solution_1_6_2_and_1_6_3_Main {
     public static void main(String[] args) {
         User[] users = createUsers();
         Action action = new Action();
