@@ -1,4 +1,4 @@
-package labs.work_1_6_2.solution_1_6_2;
+package labs.work_1_6_2_and_1_6_3.solution_1_6_2_and_1_6_3;
 
 /*----- 1.6.3. ----*/
 
