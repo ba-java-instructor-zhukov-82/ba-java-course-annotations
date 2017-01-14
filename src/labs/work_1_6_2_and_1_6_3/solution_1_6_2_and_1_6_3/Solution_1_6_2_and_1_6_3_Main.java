@@ -7,7 +7,7 @@ package labs.work_1_6_2_and_1_6_3.solution_1_6_2_and_1_6_3;
    access rights. Then demonstrates working with the file
    for different users */
 
-public class Solution_1_6_2_Main {
+public class Solution_1_6_2_and_1_6_3_Main {
     public static void main(String[] args) {
         User[] users = createUsers();
         Action action = new Action();
